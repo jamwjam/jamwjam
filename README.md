@@ -1,7 +1,4 @@
-### Hi there! I am...
-
-<img src="https://github.com/jamwjam/jamwjam/blob/b91f727faa18606d604624e3aa8029ca7eb73c1f/typing-laptop.gif" width="200px" height="200px" />
-
+### Hi there!
 <!--
 **jamwjam/jamwjam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
